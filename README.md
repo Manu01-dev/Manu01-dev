@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manu01-dev
+- 👋 Hi, I’m Emmanuel Zuma
 - 👀 I’m interested in Mern Stack development
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate any React.js Project
 - 📫 How to reach me ...Email: emmanzuma04@gmail.com LinkedIn: www.linkedin.com/in/emmanuel-zuma
 
 <!---
